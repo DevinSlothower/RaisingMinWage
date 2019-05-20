@@ -8,8 +8,8 @@ body {
   background-color: #333;
   padding-left: 5px;
   padding-right: 5px;
-  border-radius: 10px;
-  border: 2px solid #4fa1ff;
+  border-radius: 5px;
+  border: 2px solid #37f282;
   margin-left: 3px;
   margin-top: 5px;
   margin-right: 3px;
@@ -17,7 +17,7 @@ body {
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #37f282;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
