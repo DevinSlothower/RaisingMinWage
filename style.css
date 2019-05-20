@@ -35,3 +35,20 @@ body {
   background-color: #4fe1ff;
   color: white;
 }
+
+.test {
+background-color: white;
+border-radius: 5px;
+height: auto;
+margin: auto;
+border-width: 2px;
+border-style: solid;
+border-color: #37f282;
+}
+
+.test p {
+color: black;
+margin-left: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
