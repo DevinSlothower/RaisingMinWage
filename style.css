@@ -37,7 +37,7 @@ body {
 }
 
 .test {
-background-color: white;
+background-color: #333333;
 border-radius: 5px;
 height: auto;
 margin-top: 15px;
@@ -45,11 +45,11 @@ margin-left: 10px;
 margin-right: 10px;
 border-width: 2px;
 border-style: solid;
-border-color: #37f282;
+border-color: #ff2828;
 }
 
 .test p {
-color: black;
+color: white;
 margin-left: 5px;
 margin-top: 5px;
 margin-bottom: 5px;
