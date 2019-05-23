@@ -3,6 +3,7 @@ body {
   height: 100%;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #262626;
+  overflow-y:hidden;
 }
 
 #particles-js canvas {
@@ -22,7 +23,7 @@ body {
     position: fixed;
     z-index: -10;
     top: 0;
-    left: 0
+    left: 0;
 }
 
 .topnav {
@@ -35,7 +36,7 @@ body {
   margin-left: 3px;
   margin-top: 5px;
   margin-right: 3px;
-  position: sticky;
+  position: sticky
 }
 
 .topnav a {
@@ -75,6 +76,7 @@ margin-right: 10px;
 border-width: 2px;
 border-style: solid;
 border-color: #ff2828;
+opacity: 0.9;
 }
 
 .test p {
